@@ -10,7 +10,7 @@ The program is very simple, and horribly written.
 At the time of making this, I(the writer of this program) am a first year student with only 1.5 months of python experience.  
   
 The program has been made for a very specific purpose, and might not work for other.  
-It was allso created with my own hardware in mind, and might not work as intended for others.  
+It was also created with my own hardware in mind, and might not work as intended for others.  
   
 NOTE:  
   
